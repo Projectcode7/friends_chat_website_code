@@ -1,0 +1,27 @@
+Spring Boot 3.x
+
+Angular -17
+
+java 17
+
+
+
+https://github.com/vijaygormi477660/friends_chat_website.git 
+
+
+
+friendschat012@gmail.com
+
+Project@123
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+
+git push -u origin main
+
+
+
